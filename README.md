@@ -11,7 +11,7 @@ This analysis is meant to help a company ("Hewlett Packard") maintain business c
 - More employees with non-senior roles are eligible for the mentorship program. Only 45.51% of potential mentors are Senior Engineers or Senior Staff.
 - Only 2 employees with the title "Manager" are eligible to retire.
 
-![mentor count table](/Data/Challenge_Data/mentor_count_table.png)
+![mentor count table](/Data/Challenge_Data/mentor_count_Table.png)
 
 ## Summary:
 
