@@ -2,7 +2,7 @@
 
 ## Overview
 
-This analysis is meant to help a company ("Hewlett Packard") maintain business continuity as a large number of their employees reach retirement age. Specifically, we're determining whether instituting a program to mentor new-hires is a viable solution to looming staffing shortages.
+This analysis is meant to help a company ("Pewlett Hackard") maintain business continuity as a large number of their employees reach retirement age. Specifically, we're determining whether instituting a program to mentor new-hires is a viable solution to looming staffing shortages.
 
 ## Results:
 
